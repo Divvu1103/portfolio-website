@@ -133,6 +133,7 @@ export default function Navbar() {
           </a>
           <a
             href='https://github.com/Divvu1103'
+            target={"_blank"}
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg
@@ -148,6 +149,7 @@ export default function Navbar() {
           </a>
           <a
             href="https://www.linkedin.com/in/divyansh-vaibhav-b49206222/"
+            target={"_blank"}
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg
