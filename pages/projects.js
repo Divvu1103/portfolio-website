@@ -7,7 +7,7 @@ import { client } from '../lib/client';
 export default function projects({projects}) {
   // console.log(projects)
   return (
-    <ContainerBlock title="Projects - Manu Arora">
+    <ContainerBlock title="Projects">
       <Projects projects={projects}/>
     </ContainerBlock>
   );
